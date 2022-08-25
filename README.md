@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Semporia.jso
 ```
 
 <p align="center">
-  ![](./Hand-Painted-icon.png.png)
+    <img src="https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Hand-Painted-icon.png" align="center">
   <br><br>
 </p>
 
