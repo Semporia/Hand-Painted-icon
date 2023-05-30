@@ -92,12 +92,20 @@
             "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/TencentVideo.png"
         },
         {
+            "name": "TAG",
+            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/TAG.png"
+        },
+        {
             "name": "Video",
             "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Video.png"
         },
         {
             "name": "WeChat",
             "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/WeChat.png"
+        },
+        {
+            "name": "YTOO",
+            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/YTOO.png"
         },
         {
             "name": "Air_Bnb",
